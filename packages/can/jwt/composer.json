@@ -1,0 +1,13 @@
+{
+    "name": "can/jwt",
+    "description": "jwt using",
+    "require": {
+        "firebase/php-jwt": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Can Avcı",
+            "email": "canavci2016@gmail.com"
+        }
+    ]
+}
